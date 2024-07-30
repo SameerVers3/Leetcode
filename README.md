@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SameerVers3/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3379-score-of-a-string](https://github.com/SameerVers3/Leetcode/tree/master/3379-score-of-a-string) |
 ## Graph
 |  |
 | ------- |
