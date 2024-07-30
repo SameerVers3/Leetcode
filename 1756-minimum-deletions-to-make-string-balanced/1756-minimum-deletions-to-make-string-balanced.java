@@ -1,19 +1,29 @@
 class Solution {
     public int minimumDeletions(String s) {
-        Stack<Character> stack = new Stack<>();
-        
-        int count = 0;
-        stack.push(s.charAt(0));
+        int [] b = new int[s.length()];
+        int [] a = new int[s.length()];        
 
-        for (int i = 1 ; i < s.length() ; i++) {
-            if (!stack.empty() && stack.peek() == 'b' && s.charAt(i) == 'a') {
-                count++;
-                stack.pop();
+        int b_count = 0;
+        int a_count = 0;
+
+        for (int i = 0, j = s.length() - 1; i < s.length() ; i++, j--) {
+            b[i] = b_count;
+            a[j] = a_count;
+
+            if (s.charAt(i) == 'b') {
+                b_count++;
             }
-            else {
-                stack.push(s.charAt(i));
+            if (s.charAt(j) == 'a') {
+                a_count++;
             }
         }
-        return count;
+
+        int min = Integer.MAX_VALUE;
+
+        for (int i = 0; i<s.length(); i++) {
+            min = Math.min(min, a[i] + b[i]);
+        }
+
+        return min;
     }
 }
