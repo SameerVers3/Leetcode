@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-find-the-town-judge](https://github.com/SameerVers3/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/SameerVers3/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/SameerVers3/Leetcode/tree/master/1511-count-number-of-teams) |
+| [2727-number-of-senior-citizens](https://github.com/SameerVers3/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SameerVers3/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/SameerVers3/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SameerVers3/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SameerVers3/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2727-number-of-senior-citizens](https://github.com/SameerVers3/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SameerVers3/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/SameerVers3/Leetcode/tree/master/3379-score-of-a-string) |
 ## Graph
