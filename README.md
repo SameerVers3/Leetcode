@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SameerVers3/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SameerVers3/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SameerVers3/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SameerVers3/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SameerVers3/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1196-filling-bookcase-shelves](https://github.com/SameerVers3/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerVers3/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SameerVers3/Leetcode/tree/master/1511-count-number-of-teams) |
