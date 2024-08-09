@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SameerVers3/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1039-find-the-town-judge](https://github.com/SameerVers3/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/SameerVers3/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SameerVers3/Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/SameerVers3/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SameerVers3/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SameerVers3/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SameerVers3/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
