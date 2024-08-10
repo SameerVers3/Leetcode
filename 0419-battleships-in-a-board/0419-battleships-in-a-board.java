@@ -5,7 +5,7 @@ class Solution {
             return;
         }
 
-        grid[i][j] = 'Y';
+        grid[i][j] = '.';
 
         DFS(grid, i, j+1);
         DFS(grid, i+1, j);
