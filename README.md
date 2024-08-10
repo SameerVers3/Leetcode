@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SameerVers3/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SameerVers3/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
