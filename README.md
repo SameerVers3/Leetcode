@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SameerVers3/Leetcode/tree/master/0007-reverse-integer) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SameerVers3/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
