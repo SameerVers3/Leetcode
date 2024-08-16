@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SameerVers3/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SameerVers3/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SameerVers3/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/SameerVers3/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SameerVers3/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SameerVers3/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SameerVers3/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SameerVers3/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SameerVers3/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
