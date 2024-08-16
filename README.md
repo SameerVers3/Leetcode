@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/SameerVers3/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerVers3/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0624-maximum-distance-in-arrays](https://github.com/SameerVers3/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerVers3/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1196-filling-bookcase-shelves](https://github.com/SameerVers3/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SameerVers3/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SameerVers3/Leetcode/tree/master/1511-count-number-of-teams) |
