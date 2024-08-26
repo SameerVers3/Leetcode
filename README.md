@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/SameerVers3/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/SameerVers3/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SameerVers3/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SameerVers3/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SameerVers3/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/SameerVers3/Leetcode/tree/master/0733-flood-fill) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SameerVers3/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/SameerVers3/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SameerVers3/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/SameerVers3/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SameerVers3/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SameerVers3/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SameerVers3/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SameerVers3/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
