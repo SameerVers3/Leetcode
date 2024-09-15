@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerVers3/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0624-maximum-distance-in-arrays](https://github.com/SameerVers3/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SameerVers3/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SameerVers3/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/SameerVers3/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SameerVers3/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/SameerVers3/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SameerVers3/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/SameerVers3/Leetcode/tree/master/0870-magic-squares-in-grid) |
