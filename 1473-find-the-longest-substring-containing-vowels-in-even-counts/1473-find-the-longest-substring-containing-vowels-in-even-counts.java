@@ -10,16 +10,17 @@ class Solution {
 
         int i = 0;
         for (char ch: s.toCharArray()) {
+
             if (ch == 'a') {
-                vowel[0] = (vowel[0] + 1) % 2; 
+                vowel[0] = vowel[0] ^ 1; 
             } else if (ch == 'e') {
-                vowel[1] = (vowel[1] + 1) % 2; 
+                vowel[1] = vowel[1] ^ 1; 
             } else if (ch == 'i') {
-                vowel[2] = (vowel[2] + 1) % 2; 
+                vowel[2] = vowel[2] ^ 1; 
             } else if (ch == 'o') {
-                vowel[3] = (vowel[3] + 1) % 2; 
+                vowel[3] = vowel[3] ^ 1; 
             } else if (ch == 'u') {
-                vowel[4] = (vowel[4] + 1) % 2; 
+                vowel[4] = vowel[4] ^ 1; 
             }
 
             currState = "";
