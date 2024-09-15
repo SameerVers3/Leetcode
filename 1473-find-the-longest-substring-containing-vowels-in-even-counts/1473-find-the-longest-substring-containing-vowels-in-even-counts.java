@@ -1,37 +1,29 @@
 class Solution {
     public int findTheLongestSubstring(String s) {
-        HashMap<String, Integer> hash = new HashMap<>();
+        HashMap<Integer, Integer> hash = new HashMap<>();
 
-        int [] vowel = new int[5];
-
-        String currState = "00000";
-        hash.put(currState, -1);
+        int mask = 0;
+        hash.put(mask, -1);
         int res = 0;
-
         int i = 0;
         for (char ch: s.toCharArray()) {
 
             if (ch == 'a') {
-                vowel[0] = vowel[0] ^ 1; 
+                mask = mask ^ (1 << 0);
             } else if (ch == 'e') {
-                vowel[1] = vowel[1] ^ 1; 
+                mask = mask ^ (1 << 1);
             } else if (ch == 'i') {
-                vowel[2] = vowel[2] ^ 1; 
+                mask = mask ^ (1 << 2);
             } else if (ch == 'o') {
-                vowel[3] = vowel[3] ^ 1; 
+                mask = mask ^ (1 << 3);
             } else if (ch == 'u') {
-                vowel[4] = vowel[4] ^ 1; 
-            }
-
-            currState = "";
-            for (int num: vowel) {
-                currState += num;
+                mask = mask ^ (1 << 4);
             }
             
-            if (hash.containsKey(currState)) {
-                res = Math.max(res, i - hash.get(currState));
+            if (hash.containsKey(mask)) {
+                res = Math.max(res, i - hash.get(mask));
             } else {
-                hash.put(currState, i);
+                hash.put(mask, i);
             }
 
             i++;
