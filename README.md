@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/SameerVers3/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SameerVers3/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/SameerVers3/Leetcode/tree/master/0733-flood-fill) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SameerVers3/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/SameerVers3/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SameerVers3/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/SameerVers3/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SameerVers3/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SameerVers3/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/SameerVers3/Leetcode/tree/master/0664-strange-printer) |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/SameerVers3/Leetcode/tree/master/0007-reverse-integer) |
 | [0264-ugly-number-ii](https://github.com/SameerVers3/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/SameerVers3/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SameerVers3/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/SameerVers3/Leetcode/tree/master/0650-2-keys-keyboard) |
