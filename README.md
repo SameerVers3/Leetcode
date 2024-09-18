@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/SameerVers3/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SameerVers3/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerVers3/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/SameerVers3/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/SameerVers3/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0419-battleships-in-a-board](https://github.com/SameerVers3/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SameerVers3/Leetcode/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/SameerVers3/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SameerVers3/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SameerVers3/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SameerVers3/Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/SameerVers3/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SameerVers3/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/SameerVers3/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/SameerVers3/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SameerVers3/Leetcode/tree/master/0890-lemonade-change) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/SameerVers3/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
