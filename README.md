@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SameerVers3/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/SameerVers3/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/SameerVers3/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SameerVers3/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/SameerVers3/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/SameerVers3/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SameerVers3/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SameerVers3/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SameerVers3/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SameerVers3/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/SameerVers3/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/SameerVers3/Leetcode/tree/master/0664-strange-printer) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SameerVers3/Leetcode/tree/master/0007-reverse-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SameerVers3/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SameerVers3/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/SameerVers3/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SameerVers3/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SameerVers3/Leetcode/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
@@ -410,4 +414,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/SameerVers3/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/SameerVers3/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SameerVers3/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SameerVers3/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
