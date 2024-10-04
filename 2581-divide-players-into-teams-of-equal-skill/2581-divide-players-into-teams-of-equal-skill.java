@@ -1,5 +1,11 @@
 class Solution {
     public long dividePlayers(int[] skill) {
+        int totalSum = Arrays.stream(skill).sum();
+        if (totalSum % (skill.length / 2) != 0) {
+            return -1;
+        }
+
+
         Arrays.sort(skill);
 
         int i = 0;
@@ -10,8 +16,7 @@ class Solution {
         long res = 0L;
 
         while (i < j) {
-            int k = skill[i] + skill[j];
-            if (k != sum) {
+            if (skill[i] + skill[j] != sum) {
                 return -1;
             }
 
